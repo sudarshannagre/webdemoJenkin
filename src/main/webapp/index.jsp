@@ -1,11 +1,11 @@
 <html>
 <body>
-	<form action="test">
-		<h2>Hello Guest ...</h2>
+	<form action="diwali.jsp">
+		<!-- <h2>Hello Guest ...</h2>
 		<br> Guest Name : <input type="text"
 			placeholder="Enter Name Here" id="name" name="name" />
-			
-			<input type="submit" value="ClickMe"/>
+			 -->
+			<center><input type="submit" value="Click Here For Diwali Wishes !!!"/></center>
 	</form>
 </body>
 </html>
