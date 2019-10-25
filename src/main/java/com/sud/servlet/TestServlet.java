@@ -31,7 +31,7 @@ public class TestServlet extends HttpServlet {
 		String name = request.getParameter("name");
 		
 		PrintWriter pw = response.getWriter();
-		pw.print("<hi> Hello "+name);
+		pw.print("<h1><font color='Green'> Hello "+name);
 		
 	}
 
